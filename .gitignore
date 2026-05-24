@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caché de FastF1
+f1_cache/
+
+# Imágenes y outputs generados
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Sistema
+.DS_Store
+Thumbs.db
